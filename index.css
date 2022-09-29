@@ -1,0 +1,29 @@
+.upper
+{
+    color:maroon;
+    font-size: 30px;
+}
+
+.bus
+{
+    text-decoration: underline;
+    color:green;
+}
+.ck{
+    color:black;
+    font-size: 30px;
+}
+.lower
+{
+    color:black;
+    font-size: 25px;
+}
+.tb{
+    font-size: 30px;
+    border-radius: 0%;
+}
+#bk
+{
+    background-color: black;
+    color:white;
+}
